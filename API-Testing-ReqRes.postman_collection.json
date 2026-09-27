@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "d212c0d9-c957-4862-8198-e9a66d14d383",
+		"name": "API Testing – ReqRes",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50641571",
+		"_collection_link": "https://samidhashinde1111-6764397.postman.co/workspace/Samidha-Shinde's-Workspace~d6e97ee5-d747-4631-8e99-8112a32966a5/collection/50641571-d212c0d9-c957-4862-8198-e9a66d14d383?action=share&source=collection_link&creator=50641571"
+	},
+	"item": [
+		{
+			"name": "GET - List Users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET - Single User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET - Invalid User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST - Create User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT - Update User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PATCH - Update User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE - User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
